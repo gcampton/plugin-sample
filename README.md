@@ -1,4 +1,4 @@
-Title of your plugin
+Plugin for a Title
 ====================
 
 Plugin for [YOURLS](http://yourls.org) `<0.01>`. 
@@ -16,8 +16,8 @@ Installation
 
 License
 -------
-*Here*: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
+WTF-yw 1.0. do Whatever the f*&k you want - licence.
 
 One more thing
 --------------
-*Here*: any other content, as needed. An important information should be contact information for bug reports or user questions, if you decide not to use Github issues in your plugin repository.
+important information you need to know is...
