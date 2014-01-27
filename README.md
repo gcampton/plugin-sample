@@ -1,11 +1,11 @@
 Title of your plugin
 ====================
 
-Plugin for [YOURLS](http://yourls.org) `<here: min-version if applicable>`. 
+Plugin for [YOURLS](http://yourls.org) `<0.01>`. 
 
 Description
 -----------
-*Here*: replace this paragraph with a detailed explanation of what your plugin does: what it improves, what it adds, or the default behavior it replaces. Use clear and short sentences. Be convincing.
+This is where I convince you I know what I'm doing. Unfortunately I don't...
 
 Installation
 ------------
